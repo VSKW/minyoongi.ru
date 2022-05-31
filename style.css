@@ -1,0 +1,79 @@
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-style: oblique;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 30px;
+}
+.htmlg{font-style: oblique;
+    background-image: url(img/photo_2022-05-18_16-43-02.jpg);
+    background-size: 110%;
+}
+.htmlv{
+    background-image: url(img/photo_2022-05-22_16-34-04.jpg);
+    background-size: 100%;
+    font-style: oblique;
+}
+
+.text1{
+    padding-top: 10%;
+}
+.text2{
+    padding-top: 5%;
+
+}
+.vid3{
+    padding-bottom: 20px;
+}
+.vid2{
+    padding-left: 25px;
+    padding-bottom: 20px;
+}
+.vid{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+.text {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: white;
+    font-style: oblique;
+    font-size: 30px;
+
+}
+.backgroundbiografy {
+    background-image: url(img/photo_2022-05-18_18-04-56.jpg);
+    background-size: 100%;
+    background-color: unset;
+}
+.backgroundteam {
+    background-image: url(img/photo_2022-05-21_22-09-12.jpg);
+    background-size: 100%;
+}
+
+.center{
+    text-align: center;
+    padding-top: 15%;
+}
+.imgbutton{
+    padding: 50px;
+}
+.imgbutton2{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.backgroundsound{
+    background-image: url(img/photo_2022-05-19_21-22-27.jpg);
+    background-size: 100%;
+}
+.navi{
+    text-align: center;
+}
